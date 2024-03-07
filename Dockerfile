@@ -17,10 +17,13 @@ RUN apk add --no-cache \
   php83-fpm \
   php83-gd \
   php83-intl \
+  php83-ldap \
   php83-mbstring \
   php83-mysqli \
+  php83-pdo \
   php83-opcache \
   php83-openssl \
+  php83-pecl-memcache \
   php83-phar \
   php83-session \
   php83-tokenizer \
