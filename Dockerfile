@@ -23,7 +23,7 @@ RUN apk add --no-cache \
   php83-pdo \
   php83-opcache \
   php83-openssl \
-  php83-pecl-memcache \
+  php83-pecl-memcached \
   php83-phar \
   php83-session \
   php83-tokenizer \
